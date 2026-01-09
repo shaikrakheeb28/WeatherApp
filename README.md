@@ -33,4 +33,4 @@ A Python console app that fetches real-time weather data using the OpenWeatherMa
 
 ## Author
 
-Name: Sekhar Metla (www.harisystems.com)
+Name: Shaik Rakheeb (https://github.com/shaikrakheeb28)
